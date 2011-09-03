@@ -55,6 +55,11 @@ body {
 #main {  
   width: 70%;
   float: left;
+	text-align : center;
+}
+
+#middle{
+	text-align : center;
 }
 
 #question{
